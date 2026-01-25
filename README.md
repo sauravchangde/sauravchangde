@@ -53,15 +53,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauravchangde&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravchangde&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: <your-linkedin-url>
-- 📧 Email: <your-email>
+- 💼 LinkedIn: https://www.linkedin.com/in/saurav-avinash-changde-37985a139/
+- 📧 Email: changdesaurav.jobs@gmail.com
 
 ---
 
