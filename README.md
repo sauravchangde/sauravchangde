@@ -93,11 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravchangde&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sauravchangde&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="./contributions-card.png" alt="GitHub contributions card" width="900"/>
-</p>
-
 ---
 
 ✨ *Building scalable backend systems across AI, distributed computing, and cloud platforms.* ✨
