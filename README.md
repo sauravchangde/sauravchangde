@@ -94,9 +94,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anirudhpk2001&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=sauravchangde&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-✨ *Engineering scalable systems at the intersection of AI, distributed computing, and cloud-native development.* ✨
+✨ *Building scalable backend systems across AI, distributed computing, and cloud platforms.* ✨
