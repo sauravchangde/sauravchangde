@@ -1,5 +1,6 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+%26+Distributed+Systems+Engineer;AI+%26+Data+Infrastructure+Builder;Cloud-Native+Developer;Systems+Thinker+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 🎓 **M.S. Computer Science** @ University of Colorado Denver (Aug 2023 – May 2025) • **GPA: 3.74**  
